@@ -1,2 +1,2 @@
-# Day-2
+# Firebse 
 Basic attempt of adding data to firebase.
